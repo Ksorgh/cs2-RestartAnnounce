@@ -1,0 +1,14 @@
+{
+    "Name": "Restart Announce Plugin",
+    "Description": "Announces server restart with chat messages",
+    "Version": "1.0.0",
+    "Load": "Startup",
+    "Commands": [
+        {
+            "Name": "css_restartannounce",
+            "Description": "Announce restart in chat",
+            "Usage": ".css_restartannounce",
+            "Permissions": ["@css/rcon"]
+        }
+    ]
+}
