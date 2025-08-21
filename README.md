@@ -1,3 +1,3 @@
 # Install
 - Download and install last releases
-- Customize the configuration file(addons\counterstrikesharp\plugins\DiscordWebhookNotifier\config.json)
+- Customize the configuration file(addons/counterstrikesharp/configs/plugins/RestartAnnouncePlugin/RestartAnnouncePlugin.json)
