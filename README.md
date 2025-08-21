@@ -1,2 +1,3 @@
-# cs2-RestartAnnounce
-The plugin allows you to warn players about the restart using rcon
+# Install
+- Download and install last releases
+- Customize the configuration file(addons\counterstrikesharp\plugins\DiscordWebhookNotifier\config.json)
